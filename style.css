@@ -2,8 +2,8 @@
   margin: 0;
   box-sizing: border-box;
 }
-head {
-  background-color: black;
+html {
+  background: #111;
 }
 
 .wrapper {
